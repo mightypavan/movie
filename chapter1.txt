@@ -1,1 +1,1 @@
-This is the chapter 1 of git version control.
+There is a planet filled with toxic gases.
